@@ -70,7 +70,13 @@ Full-stack MERN development, plus applied LLM engineering: retrieval-augmented s
 <br>
 
 <div align="center">
-<img src="https://portfolio-site-delta-beryl.vercel.app/" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rabiadev425&show_icons=true&hide_border=true&theme=react&hide=prs" height="150"/>
+</div>
+
+<br>
+
+<div align="center">
+<a href="https://portfolio-site-delta-beryl.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-View%20Portfolio-2ED8A7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
 <br>
