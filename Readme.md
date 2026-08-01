@@ -50,31 +50,14 @@ Full-stack MERN development, plus applied LLM engineering: retrieval-augmented s
 
 ## Featured Projects
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**[Project Name]()**
-Full-stack MERN app — one sentence on the real problem it solves.
+**[Project Name]()** — Full-stack MERN app. One sentence on the real problem it solves.
 `React` `Node` `MongoDB`
 
-</td>
-<td width="33%" valign="top">
-
-**[Project Name]()**
-RAG-powered assistant — one sentence on what it retrieves and answers.
+**[Project Name]()** — RAG-powered assistant. One sentence on what it retrieves and answers.
 `LangChain` `FastAPI`
 
-</td>
-<td width="33%" valign="top">
-
-**[Project Name]()**
-AI agent workflow — one sentence on what it automates.
+**[Project Name]()** — AI agent workflow. One sentence on what it automates.
 `Agents` `OpenAI API`
-
-</td>
-</tr>
-</table>
 
 <br>
 
