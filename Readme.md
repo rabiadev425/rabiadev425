@@ -17,10 +17,6 @@ Full-stack MERN development, plus applied LLM engineering: retrieval-augmented s
 
 <br>
 
-<table width="100%" style="border:none;">
-<tr style="border:none;">
-<td width="50%" valign="top" style="border:none;">
-
 ### 🧱 MERN / Full-Stack
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,ts,tailwind,redux" />
@@ -30,8 +26,7 @@ Full-stack MERN development, plus applied LLM engineering: retrieval-augmented s
 - MongoDB, PostgreSQL, Redis data layers
 - Auth, payments, deployment, CI/CD
 
-</td>
-<td width="50%" valign="top" style="border:none;">
+<br>
 
 ### 🤖 AI / LLM Engineering
 
@@ -41,10 +36,6 @@ Full-stack MERN development, plus applied LLM engineering: retrieval-augmented s
 - LLM integration (OpenAI, Hugging Face)
 - Fine-tuning with LoRA / PEFT
 - Autonomous agents & workflow automation
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -65,14 +56,14 @@ Full-stack MERN development, plus applied LLM engineering: retrieval-augmented s
 <summary><b>Full toolkit</b> — click to expand</summary>
 <br>
 
-**Frontend** · React, Next.js, Vue 3, Nuxt, TypeScript, Tailwind CSS, ShadCN, Redux
-**Backend** · Node.js, Express, Nest.js, FastAPI, Django, REST/GraphQL/WebSocket APIs
-**AI / ML** · LangChain, LlamaIndex, OpenAI API, Hugging Face, PyTorch, LoRA/PEFT, vector DBs (Pinecone, Chroma)
-**Data** · MongoDB, PostgreSQL, Redis, SQLAlchemy, Prisma, ETL pipelines
-**Automation** · Scrapy, Selenium, Playwright, Celery, scheduled pipelines
-**Auth & Security** · JWT, OAuth 2.0, rate limiting, input validation
-**Testing** · pytest, Jest, Cypress, Postman
-**Deployment** · AWS, Vercel, Docker, GitHub Actions CI/CD
+- **Frontend** — React, Next.js, Vue 3, Nuxt, TypeScript, Tailwind CSS, ShadCN, Redux
+- **Backend** — Node.js, Express, Nest.js, FastAPI, Django, REST/GraphQL/WebSocket APIs
+- **AI / ML** — LangChain, LlamaIndex, OpenAI API, Hugging Face, PyTorch, LoRA/PEFT, vector DBs (Pinecone, Chroma)
+- **Data** — MongoDB, PostgreSQL, Redis, SQLAlchemy, Prisma, ETL pipelines
+- **Automation** — Scrapy, Selenium, Playwright, Celery, scheduled pipelines
+- **Auth & Security** — JWT, OAuth 2.0, rate limiting, input validation
+- **Testing** — pytest, Jest, Cypress, Postman
+- **Deployment** — AWS, Vercel, Docker, GitHub Actions CI/CD
 
 </details>
 
