@@ -70,7 +70,7 @@ Full-stack MERN development, plus applied LLM engineering: retrieval-augmented s
 <br>
 
 <div align="center">
-<img src="https://portfolio-site-delta-beryl.vercel.app" height="150"/>
+<img src="https://portfolio-site-delta-beryl.vercel.app/" height="150"/>
 </div>
 
 <br>
