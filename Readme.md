@@ -52,8 +52,8 @@ Full-stack MERN development, plus applied LLM engineering: retrieval-augmented s
 
 <br>
 
-<details>
-<summary><b>Full toolkit</b> — click to expand</summary>
+<details open>
+<summary><b>Full toolkit</b> — click to collapse</summary>
 <br>
 
 - **Frontend** — React, Next.js, Vue 3, Nuxt, TypeScript, Tailwind CSS, ShadCN, Redux
@@ -70,7 +70,7 @@ Full-stack MERN development, plus applied LLM engineering: retrieval-augmented s
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=react&hide=prs" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rabiadev425&show_icons=true&hide_border=true&theme=react&hide=prs" height="150"/>
 </div>
 
 <br>
