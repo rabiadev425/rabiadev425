@@ -17,9 +17,9 @@ Full-stack MERN development, plus applied LLM engineering: retrieval-augmented s
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<table width="100%" style="border:none;">
+<tr style="border:none;">
+<td width="50%" valign="top" style="border:none;">
 
 ### 🧱 MERN / Full-Stack
 
@@ -31,7 +31,7 @@ Full-stack MERN development, plus applied LLM engineering: retrieval-augmented s
 - Auth, payments, deployment, CI/CD
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:none;">
 
 ### 🤖 AI / LLM Engineering
 
