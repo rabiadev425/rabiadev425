@@ -70,7 +70,7 @@ Full-stack MERN development, plus applied LLM engineering: retrieval-augmented s
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rabiadev425&show_icons=true&hide_border=true&theme=react&hide=prs" height="150"/>
+<img src="./system-status.svg" width="100%" />
 </div>
 
 <br>
